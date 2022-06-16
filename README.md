@@ -2,4 +2,4 @@
 
 ## It`s first message from Denis
 
-## It`s massage from my friend
+## It`s message from my friend
